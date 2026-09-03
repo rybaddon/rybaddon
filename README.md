@@ -8,5 +8,5 @@
   <a href="https://rentry.co/rybaddon#">Rentry</a>  <img src="https://files.catbox.moe/v6x5ty.png" width="30" height="15" />  <a href="https://rybaddon.atabook.org">Atabook</a>
 </p>
 <p align="center">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=78q84ld02lbur5uaiiiptrmvs&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=552b2b&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=78q84ld02lbur5uaiiiptrmvs&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff99df&bar_color_cover=false">
   </a>
