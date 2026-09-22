@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/tuo756.jpg"  />
+  <img src="https://files.catbox.moe/tuo756.jpg"  width="300" height="300" />
 </p>
 <p align="center"> 
     ˗͡˗˗˗͡˗˗˗͡˗˗˗͡˗˗˗͡˗˗꒰ 𖤐 ꒱ ˗͡˗˗˗͡˗˗˗͡˗˗˗͡˗˗˗͡˗˗ 
