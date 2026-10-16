@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/7kkbtr.png"  width="300" height="300" />
+  <img src="https://i.pinimg.com/736x/e8/a3/05/e8a3050d1d487f90d3239efbaf4cad8a.jpg" width="650" height="350" />
 </p>
 <p align="center"> 
     ˗͡˗˗˗͡˗˗˗͡˗˗˗͡˗˗˗͡˗˗꒰ 𖤐 ꒱ ˗͡˗˗˗͡˗˗˗͡˗˗˗͡˗˗˗͡˗˗ 
